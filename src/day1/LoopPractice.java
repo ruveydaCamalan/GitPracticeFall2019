@@ -8,6 +8,8 @@ public class LoopPractice {
             System.out.println("counter" + i);
             System.out.println(":::::::");
             System.out.println(i+4);
+            System.out.println("auto yapcaz simdi");
+
         }
 
     }
